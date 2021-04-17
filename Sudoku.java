@@ -3,7 +3,7 @@ package Projects;
 
 public class Sudoku {	
 	//Joshua Reyes
-	//initiate a valid sudoku puzzle for debugging and testing
+	//initiate a valid and invalid sudoku puzzle for debugging and testing
 	
 	static int[][] puzzleTrue = new int[][] {	{6,2,4,5,3,9,1,8,7}, 
 												{5,1,9,7,2,8,6,3,4},
