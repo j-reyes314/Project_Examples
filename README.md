@@ -1,2 +1,2 @@
-# Sudoku_Threaded
-A simple java program that verifies if a sudoku puzzle is valid.
+# Project_Examples
+Simple programs to show problem solving skills.
